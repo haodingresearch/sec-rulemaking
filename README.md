@@ -1,5 +1,5 @@
-# SEC-Rules-and-comments
-Download comments on Proposed Rules from the SEC
+# SEC-Rulemaking
+Download rules and corresponding comments from the SEC
 
 This repository contains the script for downloading and analysing comment letters for SEC’s rulemaking activity.
 
